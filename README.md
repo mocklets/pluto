@@ -4,8 +4,10 @@ Pluto is a on-device debugger for Android applications, which helps in inspectio
 
 It comes with a UI to monitor and share the information, as well as APIs to access and use that information in your application.
 
-![pluto_summary_gif](https://firebasestorage.googleapis.com/v0/b/pluto-web/o/pluto_summary_gif.gif?alt=media)
 
+<p align="center">
+  <img src="https://firebasestorage.googleapis.com/v0/b/pluto-web/o/pluto_summary_gif.gif?alt=media" alt="chucker http sample" width="35%"/>
+</p>
 
 ***
 
